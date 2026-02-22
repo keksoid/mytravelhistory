@@ -1,7 +1,7 @@
 # MyTravelHistory - Local Photo Geolocation Aggregator
 
 A Python script that automatically extracts visited countries from geotagged JPEG photos stored locally. It analyzes photo GPS coordinates, reverse-geocodes them to country names, and produces a summary of travel history organized by date ranges.
-
+asdf
 ## Purpose
 
 This script replaces cloud-based photo aggregation services by processing photos stored on your local file system. It's designed for users who:
